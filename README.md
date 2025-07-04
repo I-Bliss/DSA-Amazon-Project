@@ -75,4 +75,7 @@ Potential Revenue.
 ## Visuals & Dashboard
 [DSA_Amazon_Visuals](https://drive.google.com/drive/folders/1QbfQJoU_LWba3q_cBCb-svbuj4gC7r4D?usp=drive_link)
 
-Amazon_Clean.png
+bash
+git rm path/to/Amazon_Clean.png path/to/Excel_Pivot.png path/to/DSA_Project_Excel.png path/to/Excel_Slicer.png path/to/Project_DSA Excel.png
+git commit -m "Delete unwanted images"
+git push
