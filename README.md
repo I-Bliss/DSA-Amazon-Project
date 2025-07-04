@@ -49,22 +49,28 @@ Potential Revenue.
 7. How many products have a 50% discount?
 
 - Conditional formatting based on discount column
-10. What is the distribution of product ratings (e.g., how many products are rated 3.0, 
+8. What is the distribution of product ratings (e.g., how many products are rated 3.0, 
 4.0, etc.)
-   
-11. What is the total potential revenue (actual_price × rating_count) by category
+ 
+ -  Conditional formatting + Pivot Count
+9. What is the total potential revenue (actual_price × rating_count) by category
 
-12. What is the number of unique products per price range bucket (e.g., <₹200, 
+-  Calculated column + pivot table sum
+10.  What is the number of unique products per price range bucket (e.g., <₹200, 
 ₹200–₹500, >₹500)
+- If function
 
-13. How does the rating relate to the level of discount
+11. How does the rating relate to the level of discount
+- Pivot Chart
+12. How many products have fewer than 1,000 reviews
 
-14. How many products have fewer than 1,000 reviews
+- Countif + line chart
+13. Which categories have products with the highest discounts
 
-15. Which categories have products with the highest discounts
-
+- Sorting by Discount + Pivot table
 16. Identify the top 5 products in terms of rating and number of reviews combined
 
+- Sum Rating and Rating Count + Pivot table to check rankings
 ## Analysis
 ## Visuals & Dashboard
 [DSA_Amazon_Visuals](https://drive.google.com/drive/folders/1QbfQJoU_LWba3q_cBCb-svbuj4gC7r4D?usp=drive_link)
