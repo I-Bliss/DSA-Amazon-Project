@@ -74,5 +74,12 @@ Potential Revenue.
 ## Analysis
 ## Visuals & Dashboard
 [DSA_Amazon_Visuals](https://drive.google.com/drive/folders/1QbfQJoU_LWba3q_cBCb-svbuj4gC7r4D?usp=drive_link)
+[Amazon_Clean.jpg](https://drive.google.com/file/d/1FrF4fOMWmW6lfT_NqDYquwqzy0_NhiQ4/view?usp=drive_link)
+[DSA_Project_Excel.jpg](https://drive.google.com/file/d/1pSjea-NS7zjIlbA611HJ7HIEk1STVSHg/view?usp=drive_link)
 
+## Highlights from Dashboard
+Categories like Electronics, Computer and Accessories and Home and Kitchen dominate in generating revenue above others, based on the high review count and ratings on products like Boat, AmazonsBasics. Most products were found to be on the affordable side based on the price bucket range, with more discounts on Home and Health products. There was an understable complex relatonship between discounts and rating because for the fact that a product has a discount doesn't mean it will be highly rated.
 
+## Tools and Skills used
+
+Data Cleaning
