@@ -8,4 +8,13 @@ Role: Junior Data Analyst
 
 Tools Used: Microsoft Excel
 
-## Data Source
+## Data Source Description
+Source: Amazon Product Review Data
+Total Records: 1,465 with 16 Columns of Data
+with Each Row Representing Distinct Product and Character
+Each Field Includes;
+Product Name
+Category
+Actual and Discounted Price
+Discount%
+Rating
