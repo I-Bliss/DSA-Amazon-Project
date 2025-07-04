@@ -25,35 +25,45 @@ Potential Revenue.
 
 ## Analytical Tasks with Solution
 1. What is the average % by product category;
--+ Pivot table with an average field formular
 
-3. How many products are listed under each category;
+- Pivot table + average field formular
 
-4. What is the total number of reviews per Category;
+2. How many products are listed under each category;
 
-5. Which Products have the highest average ratings;
+- Pivot table + count field
 
-6. What is the actual vs discounted price by category;
+3. What is the total number of reviews per Category;
 
-7. Which products have the highest number of reviews;
+- Category + Sum of rating count 
 
-8. How many products have a 50% discount?
+4. Which Products have the highest average ratings;
 
-9. What is the distribution of product ratings (e.g., how many products are rated 3.0, 
+- Sorting on Calculate average of rating
+5. What is the actual vs discounted price by category;
+
+- Grouped calculation + pivot table
+6. Which products have the highest number of reviews;
+
+- Top 5 by sorting + pivot table
+
+7. How many products have a 50% discount?
+
+- Conditional formatting based on discount column
+10. What is the distribution of product ratings (e.g., how many products are rated 3.0, 
 4.0, etc.)
    
-10. What is the total potential revenue (actual_price × rating_count) by category
+11. What is the total potential revenue (actual_price × rating_count) by category
 
-11. What is the number of unique products per price range bucket (e.g., <₹200, 
+12. What is the number of unique products per price range bucket (e.g., <₹200, 
 ₹200–₹500, >₹500)
 
-12. How does the rating relate to the level of discount
+13. How does the rating relate to the level of discount
 
-13. How many products have fewer than 1,000 reviews
+14. How many products have fewer than 1,000 reviews
 
-14. Which categories have products with the highest discounts
+15. Which categories have products with the highest discounts
 
-15. Identify the top 5 products in terms of rating and number of reviews combined
+16. Identify the top 5 products in terms of rating and number of reviews combined
 
 ## Analysis
 ## Visuals & Dashboard
