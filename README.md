@@ -3,7 +3,9 @@ A structured and detailed Microsoft Excel based analytical project on the brand 
 ## Project Topic:E-commerce Sales Analysis
 ## Project Overview
 Client name: RetailTech Insights
+
 Role: Junior Data Analyst
+
 Tools Used: Microsoft Excel
 
 ## Data Source
