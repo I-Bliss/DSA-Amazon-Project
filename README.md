@@ -56,6 +56,5 @@ Potential Revenue.
 
 ## Analysis
 ## Visuals & Dashboard
-DSA_Visuals
-https://drive.google.com/drive/folders/1QbfQJoU_LWba3q_cBCb-svbuj4gC7r4D?usp=drive_link
+[DSA_Amazon_Visuals](https://drive.google.com/drive/folders/1QbfQJoU_LWba3q_cBCb-svbuj4gC7r4D?usp=drive_link)
 
