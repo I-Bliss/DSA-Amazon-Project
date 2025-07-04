@@ -25,34 +25,35 @@ Potential Revenue.
 
 ## Analytical Tasks with Solution
 1. What is the average % by product category;
+-+ Pivot table with an average field formular
 
-2. How many products are listed under each category;
+3. How many products are listed under each category;
 
-3. What is the total number of reviews per Category;
+4. What is the total number of reviews per Category;
 
-4. Which Products have the highest average ratings;
+5. Which Products have the highest average ratings;
 
-5. What is the actual vs discounted price by category;
+6. What is the actual vs discounted price by category;
 
-6. Which products have the highest number of reviews;
+7. Which products have the highest number of reviews;
 
-7. How many products have a 50% discount?
+8. How many products have a 50% discount?
 
-8. What is the distribution of product ratings (e.g., how many products are rated 3.0, 
+9. What is the distribution of product ratings (e.g., how many products are rated 3.0, 
 4.0, etc.)
    
-9. What is the total potential revenue (actual_price × rating_count) by category
+10. What is the total potential revenue (actual_price × rating_count) by category
 
-10. What is the number of unique products per price range bucket (e.g., <₹200, 
+11. What is the number of unique products per price range bucket (e.g., <₹200, 
 ₹200–₹500, >₹500)
 
-11. How does the rating relate to the level of discount
+12. How does the rating relate to the level of discount
 
-12. How many products have fewer than 1,000 reviews
+13. How many products have fewer than 1,000 reviews
 
-13. Which categories have products with the highest discounts
+14. Which categories have products with the highest discounts
 
-14. Identify the top 5 products in terms of rating and number of reviews combined
+15. Identify the top 5 products in terms of rating and number of reviews combined
 
 ## Analysis
 ## Visuals & Dashboard
