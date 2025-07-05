@@ -1,6 +1,6 @@
 # AMAZON PRODUCT REVIEW ANALYSIS (DSA INCUBATOR PROJECT)
 A structured and detailed Microsoft Excel based analytical project on the brand that is known for a wide range of products and service; Amazon. Designed during my time with DSA Incubator with indepth understanding of Amazon's product reviews and rating, distribution, discounts as well as pricing. this project provided valuable insights into customer engagements, product performance, trends with categories of products and revenue which came to play after using calculated fields, pivot tables,   and an interactive dashboard.
-## Project Topic: E-commerce Sales Analysis
+# Project Topic: E-commerce Sales Analysis
 ## Project Overview
 Client name: RetailTech Insights
 
@@ -90,22 +90,22 @@ Categories like Electronics, Computer and Accessories and Home and Kitchen domin
 
 All analysis was done using Microsoft excel
 
-# Data Cleaning and Aggregation
+## Data Cleaning and Aggregation
 
 - Blanks were removed, corrected data inconsistencies, trimmed data, moved on to used pivot table to point out precise insights during analysis
 
-# Excel Formulars
+## Excel Formulars
 
 - Calculated columns was used expressly and formulars like IF, SUM, AVERAGE, COUNT came in handy
 
-# Visualization
+## Visualization
 - Through the creation of intuitive charts and figures e.g Bar chart, pie chart, line chart, Histogram etc.
 
-# Slicers
+## Slicers
 
 - This allowed easy sorting and filtering through the data which made the dashboard interactive
 
-# Insights 
+## Insights 
 
 - Conclusions became seamless based on the easy comprehsion of trends in the data
 
@@ -114,3 +114,17 @@ All analysis was done using Microsoft excel
 Focus marketing on the highly rated categories because they are the most reviwed in terms of Rating Count. Just because prices are discounted doesn't mean it will do well, as many products still received poor rating, hence focus also on Customer Satisfaction.
 
 There were cases of productd that drove serious engagement, like the Electronics Category, promoting this high-end products will definitely increase revenue. Also products with high reviews but mid ratings can improve from feedback campaigns and quality assurance.
+
+# About Me
+
+ILUPEJU BLESSING TAIWO
+
+B.Sc in Biological Science (Pure and Applied Zoology) | Data Enthusiast| Creative Writer
+
+I'm detailed oriented individual with a passion to uncover hidden trends and patterns that are predominately overlooked. Proficient in Data Analysis, Visualization and Reporting.
+
+# Contact
+
+If you found this engaging and insightful, feel free to pull or use it for learning
+Email: ilupejublessing777@gmail.com
+LinkedIn: https://www.linkedin.com/inblessingtaiwoilupeju
