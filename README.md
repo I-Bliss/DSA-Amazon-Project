@@ -126,5 +126,7 @@ I'm detailed oriented individual with a passion to uncover hidden trends and pat
 # Contact
 
 If you found this engaging and insightful, feel free to pull or use it for learning
+
 Email: ilupejublessing777@gmail.com
+
 LinkedIn: https://www.linkedin.com/inblessingtaiwoilupeju
