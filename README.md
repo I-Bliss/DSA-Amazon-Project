@@ -75,6 +75,18 @@ Potential Revenue.
   
 ## 📊 Analysis
 ## 📷🔎 Visuals & Dashboard
+
+<img width="743" alt="Amazon_Clean" src="https://github.com/user-attachments/assets/a45c4e12-e0c9-427d-9026-0b2b8cc096e3" />
+
+
+
+
+
+
+
+
+
+
 [DSA_Amazon_Visuals](https://drive.google.com/drive/folders/1QbfQJoU_LWba3q_cBCb-svbuj4gC7r4D?usp=drive_link)
 
 [Amazon_Clean.jpg](https://drive.google.com/file/d/148C1p4yPnmjiuNnbepEQdY_8DwPh3zFM/view?usp=drive_link)
