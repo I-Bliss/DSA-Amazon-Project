@@ -76,26 +76,12 @@ Potential Revenue.
 ## 📊 Analysis
 ## 📷🔎 Visuals & Dashboard
 
-<img width="743" alt="Amazon_Clean" src="https://github.com/user-attachments/assets/a45c4e12-e0c9-427d-9026-0b2b8cc096e3" />
-
-
-
-
-
-
-
-
-
-
 [DSA_Amazon_Visuals](https://drive.google.com/drive/folders/1QbfQJoU_LWba3q_cBCb-svbuj4gC7r4D?usp=drive_link)
 
-[Amazon_Clean.jpg](https://drive.google.com/file/d/148C1p4yPnmjiuNnbepEQdY_8DwPh3zFM/view?usp=drive_link)
-
-[DSA_Project_Excel.jpg](https://drive.google.com/file/d/17sSykbFTQU3IOxG6yAMDLfxp4RldDTqw/view?usp=drive_link)
-
-[Excel_Pivot.jpg](https://drive.google.com/file/d/1XZYZ7iW4gOaMKg4e0TMLiIUMaKajwUGi/view?usp=drive_link)
-
-[Excel_Slicer.jpg](https://drive.google.com/file/d/1dG61o1RJ2BTX-HwifCHiw4kjbi39zlwo/view?usp=drive_link)
+<img width="743" alt="Amazon_Clean" src="https://github.com/user-attachments/assets/a45c4e12-e0c9-427d-9026-0b2b8cc096e3" />
+<img width="869" alt="Excel_Pivot" src="https://github.com/user-attachments/assets/7cfd643c-1187-4605-9697-f61f9296a500" />
+<img width="872" alt="DSA_Project_Excel" src="https://github.com/user-attachments/assets/ad645b91-8b2e-4469-8d67-e99ff3955d36" />
+<img width="893" alt="Excel_Slicer" src="https://github.com/user-attachments/assets/12dae557-a050-46a0-88bb-03d4f987f9a1" />
 
 ## 🧮📉 Highlights from Dashboard
 Categories like Electronics, Computer and Accessories and Home and Kitchen dominate in generating revenue above others, based on the high review count and ratings on products like Boat, AmazonsBasics. Most products were found to be on the affordable side based on the price bucket range, with more discounts on Home and Health products. There was an understable complex relatonship between discounts and rating because for the fact that a product has a discount doesn't mean it will be highly rated.
